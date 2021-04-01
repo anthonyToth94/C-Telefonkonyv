@@ -1,0 +1,9 @@
+C:\Users\Anti\source\repos\Telefonkonyv\Telefonkonyv\bin\Debug\Telefonkonyv.exe.config
+C:\Users\Anti\source\repos\Telefonkonyv\Telefonkonyv\bin\Debug\Telefonkonyv.exe
+C:\Users\Anti\source\repos\Telefonkonyv\Telefonkonyv\bin\Debug\Telefonkonyv.pdb
+C:\Users\Anti\source\repos\Telefonkonyv\Telefonkonyv\obj\Debug\Telefonkonyv.csprojAssemblyReference.cache
+C:\Users\Anti\source\repos\Telefonkonyv\Telefonkonyv\obj\Debug\Telefonkonyv.Kezelofelulet.resources
+C:\Users\Anti\source\repos\Telefonkonyv\Telefonkonyv\obj\Debug\Telefonkonyv.Properties.Resources.resources
+C:\Users\Anti\source\repos\Telefonkonyv\Telefonkonyv\obj\Debug\Telefonkonyv.csproj.GenerateResource.cache
+C:\Users\Anti\source\repos\Telefonkonyv\Telefonkonyv\obj\Debug\Telefonkonyv.exe
+C:\Users\Anti\source\repos\Telefonkonyv\Telefonkonyv\obj\Debug\Telefonkonyv.pdb
